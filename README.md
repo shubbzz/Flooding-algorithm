@@ -1,2 +1,2 @@
 # Flooding-algorithm
-Code to show flooding routing in computer network
+Code to show flooding routing in computer network in python
