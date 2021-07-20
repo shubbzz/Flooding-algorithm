@@ -6,7 +6,7 @@ def parr(arr1):
     print()
 print("enter the number of nodes")
 n = input()
-print("enter the input matrix for "+n+" elements")
+print("enter the input matrix for "+n+" elements(weighted)")
 rows, cols = (int(n), int(n))
 arr =[]
 recieved=[]
